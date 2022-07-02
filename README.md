@@ -1,26 +1,28 @@
 # Testing Application 1
 
-  ## Table of Contents
-  - [Description](#description)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+## Table of Contents
 
-  ## Description
-  Testing to make sure this application runs properly. Test 1
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-  ## User Story
+## Description
+
+Testing to make sure this application runs properly. Test 1
+
+## User Story
 
     AS A developer
     I WANT a README generator
     SO THAT I can quickly create a professional README for a new project
 
-  ## Acceptance Criteria
+## Acceptance Criteria
 
     GIVEN a command-line application that accepts user input
     WHEN I am prompted for information about my application repository
@@ -38,19 +40,27 @@
     WHEN I click on the links in the Table of Contents
     THEN I am taken to the corresponding section of the README
 
+## Installation
 
-  ## Installation
-  run npm install to get dependencies then node index.js through the terminal
-  ## Usage
-  Quickly creates a README file that's already formatted.
-  ## License
-  # License: ISC
-  # [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-  # 
-  ## Contributing
-  Just Me. Test 1.
-  ## Tests
-  Test this application through terminal.
-  ## Questions
-  Username: androneus14<br />
-  Email Address: andynguyen_3@hotmail.com
+To install this project, we need to run node index.js through terminal to be prompt with questions to answer, and through those answers, the README file will be created based on them.
+
+## Usage
+
+The benefit of using this README generator is that it allows a user to quickly create a README file that has been designed to look professional and clean in its layout and licensing.
+
+## License
+
+# [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+## Contributing
+
+Andy Nguyen
+
+## Tests
+
+To test this application, we run node index.js through our terminal.
+
+## Questions
+
+Username: androneus14<br />
+Email Address: andynguyen_3@hotmail.com
