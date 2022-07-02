@@ -62,5 +62,6 @@ To test this application, we run node index.js through our terminal.
 
 ## Questions
 
-Username: androneus14<br />
-Email Address: andynguyen_3@hotmail.com
+Github: https://github.com/androneus14 <br />
+Email Address: andynguyen_3@hotmail.com <br />
+Demonstration Video: https://drive.google.com/file/d/1RyFs-yaKoIUzLyy9x7CC9H_Bo9RHe_z3/view <br />
