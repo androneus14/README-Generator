@@ -1,4 +1,4 @@
-# Testing Application 1
+# README-Generator
 
 ## Table of Contents
 
