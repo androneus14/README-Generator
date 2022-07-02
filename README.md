@@ -5,6 +5,12 @@
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Description
 
@@ -33,3 +39,28 @@ The purpose of this project is to create a README generator that allows a user t
     THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
     WHEN I click on the links in the Table of Contents
     THEN I am taken to the corresponding section of the README
+
+## Installation
+
+To install this project, we need to run node index.js through terminal to be prompt with questions to answer, and through those answers, the README file will be created based on them.
+
+## Usage
+
+The benefit of using this README generator is that it allows a user to quickly create a README file that has been designed to look professional and clean in its layout and licensing.
+
+## License
+
+# [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+## Contributing
+
+Andy Nguyen
+
+## Tests
+
+To test this application, we run node index.js through our terminal.
+
+## Questions
+
+Username: androneus14<br />
+Email Address: andynguyen_3@hotmail.com
